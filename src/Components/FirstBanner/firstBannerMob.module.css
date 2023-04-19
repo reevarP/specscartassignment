@@ -1,0 +1,37 @@
+.firstBanner {
+  background-image: url("../../Assets/tryathomebanner.jpg");
+  height: 20rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 6rem;
+}
+
+.tryNowButton {
+  border: none;
+  border-radius: 20px;
+  height: 2rem;
+  width: fit-content;
+  padding: 0 3rem;
+  background-color: #00b3a4;
+  font-weight: 600;
+  color: #ffffff;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+.playButton {
+  border-radius: 50%;
+  border: none;
+  background-color: #7ad5ce;
+  height: 2rem;
+  width: 2rem;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #00b3a4;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
